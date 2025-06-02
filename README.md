@@ -7,7 +7,7 @@
 - [🔍 Vulnerability Report: OWASP Demo](https://github.com/yourusername/vuln-report)
 
 ## 📄 Resume
-[View PDF Resume](./Wessam Alkhushman(cv).pdf)
+[View PDF Resume](Portfolio.github.io/Wessam Alkhushman(cv).pdf)
 
 ## 🧠 Blog & Writeups
 - [Bypassing Login - HTB Box](blog/bypass-login.md)
