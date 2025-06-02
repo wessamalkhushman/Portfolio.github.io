@@ -1,5 +1,9 @@
 <h1 align="center">🛡️ Wessam Alkhushman</h1>
 <p align="center"><strong>Cybersecurity | Ethical Hacking | Digital Forensics</strong></p>
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wessam%20Alkhushman-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/wessam26)
+
 
 ## 👋 About Me
 
