@@ -11,6 +11,5 @@
 ## 📄 Resume
 [View PDF Resume](Resume.pdf)
 
-## 🧠 Blog & Writeups
-- [Bypassing Login - HTB Box](blog/bypass-login.md)
-- [XSS Lab Analysis](blog/xss-lab.md)
+## 🧠 LinkedIn
+- [LinkedIn profile](www.linkedin.com/in/wessam26)
