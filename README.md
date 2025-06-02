@@ -21,7 +21,7 @@ I've completed intensive training through the **Nashama 7 Bootcamp** and the **C
 - Vulnerability assessment
 
 🛠 Tools I use:  
-`Burp Suite` · `Metasploit` · `Wireshark` · `MobSF` · `Volatility` · `Splunk`
+`Burp Suite` · `Metasploit` · `Wireshark` · `MobSF` · `Volatility` · `Splunk` · `nmap` · `John the Ripper` · `Hydra` · `skipfish` · `Apktool` · `Nessus` · `Autopsy` · `Aircrack-ng` · `Sqlmap` · `Netcat` · `Social-Engineer Toolkit` · `Bettercap` · `Wifite` · `Kismet`
 
 🏅 **3rd Place Winner** – Cybersecurity Track, Arab AI Olympiad
 
