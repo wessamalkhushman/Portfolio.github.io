@@ -2,9 +2,11 @@
 
 ## 🔐 Cybersecurity Projects
 
-- [🧪 TryHackMe - Red Team Labs](https://tryhackme.com/p/wessam)
-- [📂 Python Script: Log Analyzer](https://github.com/yourusername/log-analyzer)
-- [🔍 Vulnerability Report: OWASP Demo](https://github.com/yourusername/vuln-report)
+- [🧪 TryHackMe - Red/Blue Team Labs](https://tryhackme.com/p/wessam26)
+- [🔍 Building and Analyzing a Vulnerable Website](projects/Building_and_Analyzing_Vulnerable_Website.pdf)
+- [📂 Active Directory](projects/AD.pdf)
+- [🔍 Crack WIFI password](projects/WIFI_EH.pdf)
+- [🧪 Method of attacks](projects/Report_EH.pdf)
 
 ## 📄 Resume
 [View PDF Resume](Resume.pdf)
