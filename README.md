@@ -38,6 +38,3 @@ I'm constantly learning and driven to contribute to a more secure digital world.
 
 ## 📄 Resume
 [View PDF Resume](Resume.pdf)
-
-## 🧠 LinkedIn
-- [LinkedIn profile](www.linkedin.com/in/wessam26)
